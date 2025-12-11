@@ -47,9 +47,10 @@ PersonalExpense/
 ├── Program.cs
 ├── Expense.cs
 ├── Properties/
-│ └── AssemblyInfo.cs
+│   └── AssemblyInfo.cs
 ├── References/
 └── PersonalExpense.sln
+
 
 ##  How to Run the Project
 
