@@ -12,7 +12,7 @@ The **Personal Expense Tracker** helps users to:
 - Store expenses during runtime  
 
 
-## 🛠 Technologies Used
+## Technologies Used
 - C#  
 - .NET Framework (Console Application)  
 - Visual Studio  
@@ -40,18 +40,16 @@ Follow these steps to create the project:
 5. Click **Add**
 6. Replace the code.
 
-##  Project Structure
+##  Project Folder Structure
 
 PersonalExpense/
-  App.config
-  Program.cs
-  Expense.cs
-  Properties/
-    AssemblyInfo.cs
-  References/
-  PersonalExpense.sln
-
-
+├─ App.config
+├─ Program.cs
+├─ Expense.cs
+├─ Properties/
+│  └─ AssemblyInfo.cs
+├─ References/
+└─ PersonalExpense.sln
 
 ##  How to Run the Project
 
