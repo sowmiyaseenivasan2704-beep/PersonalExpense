@@ -43,13 +43,14 @@ Follow these steps to create the project:
 ##  Project Structure
 
 PersonalExpense/
-├── App.config
-├── Program.cs
-├── Expense.cs
-├── Properties/
-│   └── AssemblyInfo.cs
-├── References/
-└── PersonalExpense.sln
+  App.config
+  Program.cs
+  Expense.cs
+  Properties/
+    AssemblyInfo.cs
+  References/
+  PersonalExpense.sln
+
 
 
 ##  How to Run the Project
