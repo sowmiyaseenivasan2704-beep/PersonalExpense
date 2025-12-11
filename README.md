@@ -40,7 +40,8 @@ Follow these steps to create the project:
 5. Click **Add**
 6. Replace the code.
 
-##  Project Structure 
+##  Project Structure
+
 PersonalExpense/
 ├── App.config
 ├── Program.cs
