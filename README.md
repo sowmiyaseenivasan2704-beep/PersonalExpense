@@ -40,7 +40,7 @@ Follow these steps to create the project:
 5. Click **Add**
 6. Replace the code.
 
-## 📁 Project Folder Structure
+## Project Folder Structure
 
 ```
 PersonalExpense/
