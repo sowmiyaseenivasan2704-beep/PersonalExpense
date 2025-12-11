@@ -1,0 +1,8 @@
+C:\Users\Sowmiya\source\repos\PersonalExpense\bin\Debug\PersonalExpense.exe.config
+C:\Users\Sowmiya\source\repos\PersonalExpense\bin\Debug\PersonalExpense.exe
+C:\Users\Sowmiya\source\repos\PersonalExpense\bin\Debug\PersonalExpense.pdb
+C:\Users\Sowmiya\source\repos\PersonalExpense\obj\Debug\PersonalExpense.csproj.AssemblyReference.cache
+C:\Users\Sowmiya\source\repos\PersonalExpense\obj\Debug\PersonalExpense.csproj.CoreCompileInputs.cache
+C:\Users\Sowmiya\source\repos\PersonalExpense\obj\Debug\PersonalExpense.exe
+C:\Users\Sowmiya\source\repos\PersonalExpense\obj\Debug\PersonalExpense.pdb
+C:\Users\Sowmiya\source\repos\PersonalExpense\obj\Debug\PersonalExpense.exe.config
